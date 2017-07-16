@@ -1,0 +1,11 @@
+C:\My Stuff\Practise Projects\MathLib\MathLib\bin\Debug\MathLib.dll.config
+C:\My Stuff\Practise Projects\MathLib\MathLib\bin\Debug\MathLib.dll
+C:\My Stuff\Practise Projects\MathLib\MathLib\bin\Debug\MathLib.pdb
+C:\My Stuff\Practise Projects\MathLib\MathLib\bin\Debug\Newtonsoft.Json.dll
+C:\My Stuff\Practise Projects\MathLib\MathLib\bin\Debug\nunit.framework.dll
+C:\My Stuff\Practise Projects\MathLib\MathLib\bin\Debug\TechTalk.SpecFlow.dll
+C:\My Stuff\Practise Projects\MathLib\MathLib\bin\Debug\Newtonsoft.Json.xml
+C:\My Stuff\Practise Projects\MathLib\MathLib\bin\Debug\nunit.framework.xml
+C:\My Stuff\Practise Projects\MathLib\MathLib\obj\Debug\MathLib.dll
+C:\My Stuff\Practise Projects\MathLib\MathLib\obj\Debug\MathLib.pdb
+C:\My Stuff\Practise Projects\MathLib\MathLib\obj\Debug\MathLib.csprojResolveAssemblyReference.cache

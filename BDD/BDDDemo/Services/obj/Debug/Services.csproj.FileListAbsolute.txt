@@ -1,0 +1,9 @@
+C:\My Stuff\Practise Projects\BDDDemo\Services\bin\Debug\Services.dll
+C:\My Stuff\Practise Projects\BDDDemo\Services\bin\Debug\Services.pdb
+C:\My Stuff\Practise Projects\BDDDemo\Services\bin\Debug\Core.dll
+C:\My Stuff\Practise Projects\BDDDemo\Services\bin\Debug\Model.dll
+C:\My Stuff\Practise Projects\BDDDemo\Services\bin\Debug\Core.pdb
+C:\My Stuff\Practise Projects\BDDDemo\Services\bin\Debug\Model.pdb
+C:\My Stuff\Practise Projects\BDDDemo\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\My Stuff\Practise Projects\BDDDemo\Services\obj\Debug\Services.dll
+C:\My Stuff\Practise Projects\BDDDemo\Services\obj\Debug\Services.pdb
